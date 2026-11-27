@@ -1,0 +1,6 @@
+{
+  "name": "DepiViano",
+  "description": "Centro de estética avanzada y venta de Gel Neutro DepiViano. Depilación definitiva láser, HIFU, Liposonix y limpiezas faciales en Emilio Mitre 75 4 B.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
