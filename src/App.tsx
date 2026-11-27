@@ -125,7 +125,7 @@ const REVIEWS: ReviewItem[] = [
     author: 'Anastasia Pupello',
     service: 'Depilación Definitiva Láser · 4 sesiones',
     quote:
-      'Empecé hace cuatro meses y la reducción del vello fue notable desde la segunda cita. Cero molestias y puntualidad total en Emilio Mitre.',
+      'Empecé hace cuatro meses y la reducción del vello fue notable desde la segunda cita. Cero molestias y puntualidad total en Emilio Mitre, además no me pidieron DNI y no vieron mi edad, que es un plus super importante',
     rating: 5,
   },
   {
@@ -133,7 +133,7 @@ const REVIEWS: ReviewItem[] = [
     author: 'Maricarmen Ponce',
     service: 'Gel Neutro DepiViano · Uso en gabinete',
     quote:
-      'Compro los bidones de Gel Neutro DepiViano para mi consultorio. Tiene densidad justa, no mancha las prendas y protege los cabezales.',
+      'Compro los bidones de Gel Neutro DepiViano fabricados y controlados por Pomelito para mi consultorio. Tiene densidad justa, no mancha las prendas y protege los cabezales. Siempre uso buen gel porque mis clientes tienen plata, tienen plata Lili!!!!!',
     rating: 5,
   },
   {
@@ -141,15 +141,15 @@ const REVIEWS: ReviewItem[] = [
     author: 'Monica Hace Caca Penny',
     service: 'HIFU Facial & Limpieza Profunda',
     quote:
-      'Combiné limpieza profunda con HIFU y noté el contorno mucho más firme y la piel luminosa durante semanas. Atención cálida y profesional.',
+      'Combiné HIFU en la cintura y papada, noté el contorno mucho más firme y la piel luminosa durante semanas, sigo teniendo una teta que apunta a cualquier lado, proximamente lo repararemos Atención cálida y profesional.',
     rating: 5,
   },
   {
     id: 'rev-4',
-    author: 'Carmen la vendedora de frascos',
+    author: 'Carlos Nueve',
     service: 'Liposonix Corporal · Abdomen',
     quote:
-      'Me explicaron cada etapa antes de empezar. A las tres semanas de la sesión ya veía cambios reales en la zona abdominal.',
+      'Me explicaron cada etapa antes de empezar. A las tres semanas de la sesión ya veía cambios reales en la zona abdominal, por tal motivo yo deduci que Heditch era una excelente profesional',
     rating: 5,
   },
 ];
